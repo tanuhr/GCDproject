@@ -1,10 +1,13 @@
 Raw data
+==========
 Information about raw data can be taken from features_info.txt file in the data set. 
 
 Summary choices
+==========
 Both data sets (train and test) were merged into one data set. Then only the measurements on the mean and standard deviation for each measurement were extracted. Names of the variables were taken from the features.txt file. Data about Subject ids and Activity IDs was also added to the data set. Activity IDs are subtracted with descriptive activity names. Resulting data is the data frame with tidy data set with the average of each variable for each activity and each subject.
 
 Code book
+==========
 Resulting data is the data frame sorted by SubjectID column first and then by ActivityName column.
 
 “SubjectID” - factor with 30 levels (regarding to 30 people from the experiment)
