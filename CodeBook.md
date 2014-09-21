@@ -11,6 +11,7 @@ Code book
 Resulting data is the data frame sorted by SubjectID column first and then by ActivityName column.
 
 “SubjectID” - factor with 30 levels (regarding to 30 people from the experiment)
+
 “ActivityName” - factor with 6 levels of activity names (according to activity_labels.txt)
 
 numeric columns:
