@@ -15,6 +15,7 @@ Resulting data is the data frame sorted by SubjectID column first and then by Ac
 “ActivityName” - factor with 6 levels of activity names (according to activity_labels.txt)
 
 numeric columns:
+
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
 "tBodyAcc-mean()-Z"
